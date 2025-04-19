@@ -65,4 +65,10 @@ dependencies {
     // implementation ('com.google.code.gson:gson:2.8.6') {
     //     transitive = false
     // }
+    implementation rfg.deobf('curse.maven:had-enough-items-557549:4543375')
+    implementation rfg.deobf('curse.maven:redstoneflux-270789:2920436')
+    implementation rfg.deobf('curse.maven:theoneprobe-245211:2667280')
+    implementation rfg.deobf('curse.maven:immersiveengineering-231951:2974106')
+    implementation rfg.deobf('curse.maven:ae2-223794:2747063')
+    implementation rfg.deobf('curse.maven:refinedstorage-243076:2940914')
 }
